@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuya_\\source\\repos\\Projekt2\\Kassasystemet2\\Kassasystemet2\\Kassasystemet2.csproj",
+      "projectUniqueName": "C:\\Users\\tuya_\\Documents\\GitHub\\Kassasystem\\Kassasystemet2\\Kassasystemet2.csproj",
       "projectName": "Kassasystemet2",
-      "projectPath": "C:\\Users\\tuya_\\source\\repos\\Projekt2\\Kassasystemet2\\Kassasystemet2\\Kassasystemet2.csproj",
+      "projectPath": "C:\\Users\\tuya_\\Documents\\GitHub\\Kassasystem\\Kassasystemet2\\Kassasystemet2.csproj",
       "packagesPath": "C:\\Users\\tuya_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuya_\\source\\repos\\Projekt2\\Kassasystemet2\\Kassasystemet2\\obj\\",
+      "outputPath": "C:\\Users\\tuya_\\Documents\\GitHub\\Kassasystem\\Kassasystemet2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tuya_\\AppData\\Roaming\\NuGet\\NuGet.Config",
