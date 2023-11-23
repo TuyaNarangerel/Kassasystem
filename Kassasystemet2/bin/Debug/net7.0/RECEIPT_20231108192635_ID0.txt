@@ -1,0 +1,6 @@
+KVITTO 2023-11-08 19:26:35
+Kvittoidentifikation: 0
+Bananer 1 * 12,50 = 12,50
+Äpplen 1 * 7,99 = 7,99
+Kaffe 1 * 35,00 = 35,00
+Total: 133,48

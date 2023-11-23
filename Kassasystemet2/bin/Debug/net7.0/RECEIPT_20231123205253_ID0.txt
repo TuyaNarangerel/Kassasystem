@@ -1,0 +1,5 @@
+RECEIPT 2023-11-23 20:52:53
+Receipt identification: 0
+Banana 2 * 5,50 = 11,00
+Banana 2 * 5,50 = 11,00
+Total: 49,50

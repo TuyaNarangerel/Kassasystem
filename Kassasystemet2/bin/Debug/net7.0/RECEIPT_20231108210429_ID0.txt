@@ -1,0 +1,6 @@
+KVITTO 2023-11-08 21:04:29
+Kvittoidentifikation: 0
+Banana 1 * 12,50 = 12,50
+Äpple 1 * 7,99 = 7,99
+Havre 1 * 35,00 = 35,00
+Total: 145,98

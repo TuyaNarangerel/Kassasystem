@@ -1,0 +1,4 @@
+300 Banana 5,50 per styck
+301 Äpple 20,99 per kilo
+302 Havre 15,00 per påse
+303 Mjölk 17,00 per paket
