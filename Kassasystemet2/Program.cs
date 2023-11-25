@@ -84,8 +84,8 @@ namespace Kassasystemet2
             int receiptId = receiptCounter++;
             currentReceipt = new Receipt();
             currentReceipt.CreationTime = DateTime.Now;
-            Console.WriteLine("KVITTO " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
-            Console.WriteLine("Kvittoidentifikation: " + receiptCounter);
+            Console.WriteLine("RECEIPT " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
+            Console.WriteLine("Receipt identification: " + receiptCounter);
 
             AddProductsToReceipt(receiptId);
             PrintReceipt();

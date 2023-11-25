@@ -12,3 +12,17 @@ C:\Users\tuya_\source\repos\Projekt2\Kassasystemet2\Kassasystemet2\obj\Debug\net
 C:\Users\tuya_\source\repos\Projekt2\Kassasystemet2\Kassasystemet2\obj\Debug\net7.0\Kassasystemet2.pdb
 C:\Users\tuya_\source\repos\Projekt2\Kassasystemet2\Kassasystemet2\obj\Debug\net7.0\Kassasystemet2.genruntimeconfig.cache
 C:\Users\tuya_\source\repos\Projekt2\Kassasystemet2\Kassasystemet2\obj\Debug\net7.0\ref\Kassasystemet2.dll
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\bin\Debug\net7.0\Kassasystemet2.exe
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\bin\Debug\net7.0\Kassasystemet2.deps.json
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\bin\Debug\net7.0\Kassasystemet2.runtimeconfig.json
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\bin\Debug\net7.0\Kassasystemet2.dll
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\bin\Debug\net7.0\Kassasystemet2.pdb
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\obj\Debug\net7.0\Kassasystemet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\obj\Debug\net7.0\Kassasystemet2.AssemblyInfoInputs.cache
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\obj\Debug\net7.0\Kassasystemet2.AssemblyInfo.cs
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\obj\Debug\net7.0\Kassasystemet2.csproj.CoreCompileInputs.cache
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\obj\Debug\net7.0\Kassasystemet2.dll
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\obj\Debug\net7.0\refint\Kassasystemet2.dll
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\obj\Debug\net7.0\Kassasystemet2.pdb
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\obj\Debug\net7.0\Kassasystemet2.genruntimeconfig.cache
+C:\Users\tuya_\Documents\GitHub\Kassasystem\Kassasystemet2\obj\Debug\net7.0\ref\Kassasystemet2.dll
